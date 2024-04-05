@@ -1,7 +1,7 @@
 # ToGather: Everything in One Roof 🏫
 
 <p align="center">
-  <img src="https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57" width="550" height="400" alt="ToGather Logo">
+  <img src="https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57" width="600" height="400" alt="ToGather Logo">
 </p>
 
 [![Download on the App Store](https://github.com/tamotam-com/tamotam-app/raw/main/docs/AppleAppStoreButton.png)](https://apps.apple.com/app/togather/id123456789) 
