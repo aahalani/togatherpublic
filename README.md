@@ -1,4 +1,4 @@
-# ToGather: Everything in One Roof 🏫
+# ToGather: Everything under One Roof
 
 <p align="center">
   <img src="https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57" width="600" height="430" alt="ToGather Logo">
