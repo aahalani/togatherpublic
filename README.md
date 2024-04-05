@@ -9,7 +9,7 @@ Welcome to ToGather, the ultimate college app designed exclusively for students!
 
 1. **Mess Menu at Your Fingertips**: Wondering what's for lunch today? Get daily updates on your college mess menu. Never miss out on your favorite meals again!
 
-<img src="https://github.com/aahalani/togatherpublic/assets/29179250/958905c6-ba24-4f85-ac7e-691f33e14c98" width=200 height=300>
+<img src="https://github.com/aahalani/togatherpublic/assets/29179250/958905c6-ba24-4f85-ac7e-691f33e14c98" width=150 height=300 style="display: block; margin: auto; ">
 
 
 2. **Shuttle Schedules**: Running late? Check real-time shuttle timings and routes to plan your travel efficiently around and outside campus.
