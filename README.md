@@ -16,7 +16,9 @@ Welcome to ToGather, the ultimate college app designed exclusively for students!
 
 2. **Shuttle Schedules**: Running late? Check real-time shuttle timings and routes to plan your travel efficiently around and outside campus.
 
-   ![Shuttle Schedules Screenshot](shuttle_schedules.png)
+<p align="center">
+  <img src="https://github.com/aahalani/togatherpublic/assets/29179250/eba0f098-37af-4785-8076-1e04a7ad7c49" width="200" height="420">
+</p>
 
 3. **Campus Events**: Stay in the loop with the latest events, workshops, and activities happening on your campus.
 
