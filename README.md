@@ -1,78 +1,69 @@
-# ToGather: Everything in One Roof
+# ToGather: Everything in One Roof 🏫
 
 <p align="center">
   <img src="https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57" width="550" height="400" alt="ToGather Logo">
 </p>
 
-Welcome to ToGather, the ultimate college app designed exclusively for students! With ToGather, navigating your campus life has never been easier. We bring everything you need - from the mess menu to shuttle timings and campus events - under one digital roof. Say goodbye to juggling multiple apps and sources. ToGather is here to streamline your college experience.
+[![Download on the App Store](https://github.com/tamotam-com/tamotam-app/raw/main/docs/AppleAppStoreButton.png)](https://apps.apple.com/app/togather/id123456789)
+[![Get it on Google Play](https://github.com/tamotam-com/tamotam-app/raw/main/docs/GooglePlayStoreButton.png)](https://play.google.com/store/apps/details?id=com.togather.app)
 
-## Key Features
+## 📝 Description
 
-1. **Mess Menu at Your Fingertips**
-   
-   Wondering what's for lunch today? Get daily updates on your college mess menu. Never miss out on your favorite meals again!
+ToGather is the ultimate college app designed exclusively for students! With ToGather, navigating your campus life has never been easier. We bring everything you need - from the mess menu to shuttle timings and campus events - under one digital roof. Say goodbye to juggling multiple apps and sources. ToGather is here to streamline your college experience.
 
-   <p align="center">
-     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/958905c6-ba24-4f85-ac7e-691f33e14c98" width="200" height="420" alt="Mess Menu Screenshot">
-   </p>
+### 🎯 Simplify Your Campus Life 
 
-2. **Shuttle Schedules**
-   
-   Running late? Check real-time shuttle timings and routes to plan your travel efficiently around and outside campus.
+ToGather aims to be your go-to companion app for all things college-related. Our goal is to provide a seamless, user-friendly experience that helps you stay informed, connected, and engaged with your campus community. 
 
-   <p align="center">
-     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/eba0f098-37af-4785-8076-1e04a7ad7c49" width="200" height="420" alt="Shuttle Schedules Screenshot">
-   </p>
+The app includes essential features such as:
 
-3. **Campus Events**
-   
-   Stay in the loop with the latest events, workshops, and activities happening on your campus.
+- 🍽️ Daily mess menu updates
+- 🚌 Real-time shuttle schedules  
+- 📅 Latest campus events and activities
+- 💬 Interactive forums to connect with peers
+- 📱 Sleek and intuitive user interface
 
-   <p align="center">
-     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/86f100e1-41b3-4427-8093-6f8d5302ba40" width="200" height="420" alt="Campus Events Screenshot">
-   </p>
+By bringing all this information together in one place, ToGather saves you time and enhances your overall college experience.
 
-4. **Forums**
-   
-   Connect with your college community through our interactive forum. Ask questions, share concerns, and get answers from fellow students. Upvote the most helpful responses to highlight valuable information.
+### ⚠️ Note
 
-   <p align="center">
-     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/db8b4b44-b3fc-4926-844f-06259c54ed9a" width="200" height="420" alt="Forums Screenshot">
-   </p>
+ToGather is currently in beta and we are actively working on adding new features and improvements based on user feedback. The app may have some bugs or limitations at this stage. We appreciate your patience and understanding as we strive to deliver the best possible product.
 
-5. **User-Friendly Interface**
-   
-   Enjoy a sleek, modern, and easy-to-navigate interface that makes finding information quick and hassle-free.
+## 👨‍💻 For Developers
 
-## Why ToGather?
+ToGather is an open source project and we welcome contributions from the developer community. If you're a mobile app developer interested in React Native and want to get involved, please check out our [contributing guidelines](CONTRIBUTING.md).
 
-- All-in-one solution for campus-related information.
-- Saves time and enhances your campus life experience.
-- Keeps you informed and connected with the college community.
+### 🛠️ Tech Stack
 
-## Installation
+- React Native + TypeScript
+- Redux for state management 
+- Firebase for backend services
+- SQLite and AsyncStorage for local data persistence
+- Integration with Google Maps API
 
-To install ToGather, follow these steps:
+## 🌟 Stay Updated
 
-1. Visit the [Google Play Store](https://play.google.com/store) or [Apple App Store](https://www.apple.com/app-store/).
-2. Search for "ToGather" in the search bar.
-3. Click on the "Install" button to download and install the app on your device.
+Star this repository to keep yourself updated on ToGather's progress and to motivate us in building an awesome college app!
 
-## Feedback and Support
+## 📲 Installation 
 
-We value your feedback and are committed to providing the best user experience. If you have any suggestions, issues, or questions, please reach out to our support team at support@togather.com.
+ToGather will be available on both iOS and Android once it is launched. You will be able to install the app from the App Store or Google Play Store.
 
-## Connect with Us
+## 🙏 Feedback and Support
 
-Stay connected with ToGather and get the latest updates:
+We highly value your feedback in shaping the future of ToGather. If you encounter any issues, have suggestions for improvements, or just want to share your thoughts, please [open an issue](https://github.com/aahalani/togatherpublic/issues) on our GitHub repository.
 
-- Website: [www.togather.com](https://www.togather.com)
-- Twitter: [@ToGatherApp](https://twitter.com/ToGatherApp)
-- Facebook: [ToGather](https://www.facebook.com/ToGatherApp)
-- Instagram: [@ToGatherApp](https://www.instagram.com/ToGatherApp)
+For any other inquiries, feel free to reach out to our team at support@togather.com.
 
-Download ToGather now and take the first step towards a more organized and enjoyable college life!
+## 🔗 Connect With Us
+
+Stay connected with ToGather for the latest updates and announcements:
+
+- 🌐 [Website](https://www.togather.com)
+- 🐦 [Twitter](https://twitter.com/ToGatherApp)  
+- 👥 [Facebook](https://www.facebook.com/ToGatherApp)
+- 📸 [Instagram](https://www.instagram.com/ToGatherApp)
 
 ---
 
-*Please note that the screenshots used in this README are for illustrative purposes only and may not represent the actual app interface.*
+*The screenshots used in this README are for illustrative purposes only and may not represent the actual app interface.*
