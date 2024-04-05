@@ -1,6 +1,7 @@
 # ToGather: Everything in One Roof
 
-![ToGather Logo](logo.png)
+[ToGather Logo](https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57)
+
 
 Welcome to ToGather, the ultimate college app designed exclusively for students! With ToGather, navigating your campus life has never been easier. We bring everything you need - from the mess menu to shuttle timings and campus events - under one digital roof. Say goodbye to juggling multiple apps and sources. ToGather is here to streamline your college experience.
 
@@ -19,6 +20,10 @@ Welcome to ToGather, the ultimate college app designed exclusively for students!
    ![Campus Events Screenshot](campus_events.png)
 
 4. **User-Friendly Interface**: Enjoy a sleek, modern, and easy-to-navigate interface that makes finding information quick and hassle-free.
+
+   ![User Interface Screenshot](user_interface.png)
+
+5. **Forums**: Connect with your college community through our interactive forum. Ask questions, share concerns, and get answers from fellow students. Upvote the most helpful responses to highlight valuable information
 
    ![User Interface Screenshot](user_interface.png)
 
