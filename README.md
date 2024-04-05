@@ -61,7 +61,7 @@ ToGather is available on both iOS and Android. You can install the app from the 
 
 We highly value your feedback in shaping the future of ToGather. If you encounter any issues, have suggestions for improvements, or just want to share your thoughts, please [open an issue](https://github.com/aahalani/togatherpublic/issues) on our GitHub repository.
 
-For any other inquiries, feel free to reach out to our team at support@togather.com.
+For any other inquiries, feel free to reach out to our team at aahalani@gmail.com.
 
 ## 🔗 Connect With Us
 
