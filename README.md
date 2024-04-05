@@ -6,7 +6,7 @@
 
 [![Download on the App Store](https://github.com/tamotam-com/tamotam-app/raw/main/docs/AppleAppStoreButton.png)](https://apps.apple.com/app/togather/id123456789) 
 <br/>
-[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.aahalani.ToGather)]
+![Get it on Google Play](https://play.google.com/store/apps/details?id=com.aahalani.ToGather)
 
 ## 📝 Description
 
