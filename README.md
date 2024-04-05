@@ -1,36 +1,48 @@
 # ToGather: Everything in One Roof
+
 <p align="center">
-<img src="https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57" width=550 height=400>
+  <img src="https://github.com/aahalani/togatherpublic/assets/29179250/54163ed4-0be8-48e8-8a4a-0caaa2ac6e57" width="550" height="400" alt="ToGather Logo">
 </p>
 
 Welcome to ToGather, the ultimate college app designed exclusively for students! With ToGather, navigating your campus life has never been easier. We bring everything you need - from the mess menu to shuttle timings and campus events - under one digital roof. Say goodbye to juggling multiple apps and sources. ToGather is here to streamline your college experience.
 
 ## Key Features
 
-1. **Mess Menu at Your Fingertips**: Wondering what's for lunch today? Get daily updates on your college mess menu. Never miss out on your favorite meals again!
+1. **Mess Menu at Your Fingertips**
+   
+   Wondering what's for lunch today? Get daily updates on your college mess menu. Never miss out on your favorite meals again!
 
-<p align="center">
-  <img src="https://github.com/aahalani/togatherpublic/assets/29179250/958905c6-ba24-4f85-ac7e-691f33e14c98" width="200" height="420">
-</p>
+   <p align="center">
+     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/958905c6-ba24-4f85-ac7e-691f33e14c98" width="200" height="420" alt="Mess Menu Screenshot">
+   </p>
 
+2. **Shuttle Schedules**
+   
+   Running late? Check real-time shuttle timings and routes to plan your travel efficiently around and outside campus.
 
-2. **Shuttle Schedules**: Running late? Check real-time shuttle timings and routes to plan your travel efficiently around and outside campus.
+   <p align="center">
+     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/eba0f098-37af-4785-8076-1e04a7ad7c49" width="200" height="420" alt="Shuttle Schedules Screenshot">
+   </p>
 
-<p align="center">
-  <img src="https://github.com/aahalani/togatherpublic/assets/29179250/eba0f098-37af-4785-8076-1e04a7ad7c49" width="200" height="420">
-</p>
+3. **Campus Events**
+   
+   Stay in the loop with the latest events, workshops, and activities happening on your campus.
 
-3. **Campus Events**: Stay in the loop with the latest events, workshops, and activities happening on your campus.
+   <p align="center">
+     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/86f100e1-41b3-4427-8093-6f8d5302ba40" width="200" height="420" alt="Campus Events Screenshot">
+   </p>
 
-   ![Campus Events Screenshot](campus_events.png)
+4. **Forums**
+   
+   Connect with your college community through our interactive forum. Ask questions, share concerns, and get answers from fellow students. Upvote the most helpful responses to highlight valuable information.
 
-4. **User-Friendly Interface**: Enjoy a sleek, modern, and easy-to-navigate interface that makes finding information quick and hassle-free.
+   <p align="center">
+     <img src="https://github.com/aahalani/togatherpublic/assets/29179250/db8b4b44-b3fc-4926-844f-06259c54ed9a" width="200" height="420" alt="Forums Screenshot">
+   </p>
 
-   ![User Interface Screenshot](user_interface.png)
-
-5. **Forums**: Connect with your college community through our interactive forum. Ask questions, share concerns, and get answers from fellow students. Upvote the most helpful responses to highlight valuable information
-
-   ![User Interface Screenshot](user_interface.png)
+5. **User-Friendly Interface**
+   
+   Enjoy a sleek, modern, and easy-to-navigate interface that makes finding information quick and hassle-free.
 
 ## Why ToGather?
 
