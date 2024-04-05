@@ -55,7 +55,7 @@ Star this repository to keep yourself updated on ToGather's progress and to moti
 
 ## 📲 Installation 
 
-ToGather will be available on both iOS and Android once it is launched. You will be able to install the app from the App Store or Google Play Store.
+ToGather is available on both iOS and Android. You can install the app from the App Store or Google Play Store by simply searching for "ToGather"
 
 ## 🙏 Feedback and Support
 
@@ -67,11 +67,4 @@ For any other inquiries, feel free to reach out to our team at support@togather.
 
 Stay connected with ToGather for the latest updates and announcements:
 
-- 🌐 [Website](https://www.togather.com)
-- 🐦 [Twitter](https://twitter.com/ToGatherApp)  
-- 👥 [Facebook](https://www.facebook.com/ToGatherApp)
-- 📸 [Instagram](https://www.instagram.com/ToGatherApp)
-
----
-
-*The screenshots used in this README are for illustrative purposes only and may not represent the actual app interface.*
+- 🌐 [Website](https://www.togather.life/)
