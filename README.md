@@ -38,9 +38,9 @@ ToGather is an open source project and we welcome contributions from the develop
 
 - React Native + TypeScript
 - Redux for state management 
-- Firebase for backend services
-- SQLite and AsyncStorage for local data persistence
-- Integration with Google Maps API
+- Amazon AWS for backend services
+    * S3 
+- AsyncStorage for local data persistence
 
 ## 🌟 Stay Updated
 
