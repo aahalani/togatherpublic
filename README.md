@@ -32,19 +32,26 @@ ToGather is currently in beta and we are actively working on adding new features
 
 ## 👨‍💻 For Developers
 
-ToGather is an open source project and we welcome contributions from the developer community. If you're a mobile app developer interested in React Native and want to get involved, please check out our [contributing guidelines](CONTRIBUTING.md).
+ToGather is an open source project and we welcome contributions from the developer community. If you're a mobile app developer interested in React Native and want to get involved, please contact me via [email](mailto:aahalani@gmail.com).
 
 ### 🛠️ Tech Stack
 
 - React Native + TypeScript
 - Redux for state management 
 - Amazon AWS for backend services
-    * S3 
+    * S3
+    * Cognito
+    * Amplify
+    * AppSync
+    * Lambda
+    * DynamoDB
+    * Pinpoint
+    * SES
 - AsyncStorage for local data persistence
 
 ## 🌟 Stay Updated
 
-Star this repository to keep yourself updated on ToGather's progress and to motivate us in building an awesome college app!
+Star this repository to keep yourself updated on ToGather's progress and to motivate us in building an awesome college app! We are about to reach 1K downloads across both the platforms! 😊
 
 ## 📲 Installation 
 
